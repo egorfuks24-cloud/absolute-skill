@@ -1,0 +1,6 @@
+interface:
+  display_name: "Absolute Skill"
+  short_description: "Согласованный дизайн, память проекта и проверка"
+  default_prompt: "Используй $absolute-skill: восстанови решения проекта, уточни пробелы и предложи обоснованные варианты до реализации."
+policy:
+  allow_implicit_invocation: true

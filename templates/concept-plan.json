@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "scope": "product",
+  "phase": "explored",
+  "audience": {
+    "context": "",
+    "need": "",
+    "outcome": "",
+    "evidence_status": "hypothesis"
+  },
+  "research": [],
+  "concepts": [],
+  "selected_concept": null,
+  "selection": null,
+  "limits": []
+}

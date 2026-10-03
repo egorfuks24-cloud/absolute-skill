@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "scope": "product",
+  "status": "unapproved",
+  "selected_option": null,
+  "approval": null,
+  "artifacts": [],
+  "rules": {
+    "composition": null,
+    "responsive": null,
+    "typography": null,
+    "colors": null,
+    "spacing": null,
+    "components": null,
+    "motion": null,
+    "content": null
+  },
+  "checks": [],
+  "design_provenance": [],
+  "visual_basis": [],
+  "product_concept_required": true
+}

@@ -1,0 +1,218 @@
+{
+  "version": 1,
+  "policy": "User-approved source pool, not approval of any particular design. No automatic external additions.",
+  "sources": [
+    {
+      "id": "astryx",
+      "url": "https://astryx.atmeta.com/",
+      "category": "UI-система и композиции",
+      "allowed_hosts": [
+        "astryx.atmeta.com"
+      ],
+      "review_date": "2026-10-01",
+      "inspection": "text-reviewed",
+      "visual_inspection": false,
+      "license_verified": false
+    },
+    {
+      "id": "iconimate",
+      "url": "https://iconimate.app/",
+      "category": "Анимированные иконки",
+      "allowed_hosts": [
+        "iconimate.app"
+      ],
+      "review_date": "2026-10-01",
+      "inspection": "text-reviewed",
+      "visual_inspection": false,
+      "license_verified": false
+    },
+    {
+      "id": "dotmatrix",
+      "url": "https://dotmatrix.zzzzshawn.cloud/",
+      "category": "Точечные загрузчики",
+      "allowed_hosts": [
+        "dotmatrix.zzzzshawn.cloud"
+      ],
+      "review_date": "2026-10-01",
+      "inspection": "text-reviewed",
+      "visual_inspection": false,
+      "license_verified": false
+    },
+    {
+      "id": "doodle-icons",
+      "url": "https://github.com/oreo-design/doodle-icons",
+      "category": "Рисованные SVG-иконки, draw/boil",
+      "allowed_hosts": [
+        "github.com"
+      ],
+      "review_date": "2026-10-01",
+      "inspection": "text-reviewed",
+      "visual_inspection": false,
+      "license_verified": false,
+      "path_prefix": "/oreo-design/doodle-icons"
+    },
+    {
+      "id": "arloui",
+      "url": "https://arloui.com/",
+      "category": "UI-каталог",
+      "allowed_hosts": [
+        "arloui.com"
+      ],
+      "review_date": "2026-10-01",
+      "inspection": "limited-text",
+      "visual_inspection": false,
+      "license_verified": false
+    },
+    {
+      "id": "heroui",
+      "url": "https://heroui.com/",
+      "category": "UI-компоненты и состояния",
+      "allowed_hosts": [
+        "heroui.com",
+        "www.heroui.com"
+      ],
+      "review_date": "2026-10-01",
+      "inspection": "text-reviewed",
+      "visual_inspection": false,
+      "license_verified": false
+    },
+    {
+      "id": "posts-design",
+      "url": "https://posts.design/",
+      "category": "Композиции социальных публикаций",
+      "allowed_hosts": [
+        "posts.design"
+      ],
+      "review_date": "2026-10-01",
+      "inspection": "text-reviewed",
+      "visual_inspection": false,
+      "license_verified": false
+    },
+    {
+      "id": "recent-design",
+      "url": "https://recent.design/",
+      "category": "Композиция, branding, motion, typography",
+      "allowed_hosts": [
+        "recent.design"
+      ],
+      "review_date": "2026-10-01",
+      "inspection": "text-reviewed",
+      "visual_inspection": false,
+      "license_verified": false
+    },
+    {
+      "id": "inspora",
+      "url": "https://inspora.design/",
+      "category": "Дизайн-референсы",
+      "allowed_hosts": [
+        "inspora.design"
+      ],
+      "review_date": "2026-10-01",
+      "inspection": "unavailable-to-text-tool",
+      "visual_inspection": false,
+      "license_verified": false
+    },
+    {
+      "id": "morphicons",
+      "url": "https://morphicons.com/",
+      "category": "Морфинг иконок",
+      "allowed_hosts": [
+        "morphicons.com"
+      ],
+      "review_date": "2026-10-01",
+      "inspection": "unavailable-to-text-tool",
+      "visual_inspection": false,
+      "license_verified": false
+    },
+    {
+      "id": "tweakcn",
+      "url": "https://tweakcn.com/",
+      "category": "Редактор токенов темы",
+      "allowed_hosts": [
+        "tweakcn.com"
+      ],
+      "review_date": "2026-10-01",
+      "inspection": "js-content-not-inspected",
+      "visual_inspection": false,
+      "license_verified": false
+    },
+    {
+      "id": "fontshare",
+      "url": "https://fontshare.com/",
+      "category": "Шрифты и начертания",
+      "allowed_hosts": [
+        "fontshare.com",
+        "www.fontshare.com"
+      ],
+      "review_date": "2026-10-01",
+      "inspection": "js-content-not-inspected",
+      "visual_inspection": false,
+      "license_verified": false
+    },
+    {
+      "id": "iconify",
+      "url": "https://icon-sets.iconify.design/",
+      "category": "Наборы и точные ID иконок",
+      "allowed_hosts": [
+        "icon-sets.iconify.design"
+      ],
+      "review_date": "2026-10-01",
+      "inspection": "text-reviewed",
+      "visual_inspection": false,
+      "license_verified": false
+    },
+    {
+      "id": "3dicons",
+      "url": "https://3dicons.co/",
+      "category": "3D-объекты",
+      "allowed_hosts": [
+        "3dicons.co"
+      ],
+      "review_date": "2026-10-01",
+      "inspection": "text-reviewed",
+      "visual_inspection": false,
+      "license_verified": false
+    },
+    {
+      "id": "21st",
+      "url": "https://21st.dev/",
+      "category": "UI-блоки и исходники",
+      "allowed_hosts": [
+        "21st.dev"
+      ],
+      "review_date": "2026-10-01",
+      "inspection": "text-reviewed",
+      "visual_inspection": false,
+      "license_verified": false
+    },
+    {
+      "id": "bloub",
+      "url": "https://bloub.vercel.app/",
+      "category": "Анимированный SVG-маскот",
+      "allowed_hosts": [
+        "bloub.vercel.app"
+      ],
+      "review_date": "2026-10-01",
+      "inspection": "js-content-not-inspected",
+      "visual_inspection": false,
+      "license_verified": false
+    }
+  ],
+  "bundled_design_skills": [
+    "emil-design-eng",
+    "ui-ux-pro-max",
+    "apple-design",
+    "animate",
+    "animejs",
+    "motion-react",
+    "kokonut-ui",
+    "bklit-ui",
+    "mockup-to-app",
+    "illustration-directions",
+    "vox-frame-first",
+    "animation-vocabulary",
+    "find-animation-opportunities",
+    "improve-animations",
+    "review-animations"
+  ]
+}
