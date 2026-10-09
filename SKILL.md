@@ -1,9 +1,11 @@
 ---
 name: absolute-skill
 description: "Coordinate complete project delivery: clarify scope, develop sourced design systems, implement and verify behavior and security, and preserve decisions. Use for substantive project work and continuations; skip ordinary conversation and simple facts."
+metadata:
+  author: creator1x
 ---
 
-# Absolute Skill
+# creator1x · Absolute Skill
 
 ## Начать с результата
 Прочитать `.absolute/STATE.md` текущего проекта и относящиеся BRIEF/DESIGN/VERIFICATION. Если памяти нет, создать её в установленном корне по необходимости, не переносить чужие одобрения. Выбрать маршрут по [task-routing.md](references/task-routing.md), специалистов по [routes.md](references/routes.md), модель по [model-policy.md](references/model-policy.md). Читать только нужные материалы; это управляющий процесс, не требование применить все навыки. В первом сообщении назвать цель, навыки и рекомендованную модель/effort отдельно от фактически исполняемой. Модель, права, платные сервисы и подключения не меняются от текста навыка.
